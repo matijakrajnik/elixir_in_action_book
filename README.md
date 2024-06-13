@@ -1,2 +1,3 @@
-# elixir_in_action_book
-Practice exercises from Elixir in Action book
+# Elixir in Action
+
+Practice exercises from Elixir in Action book (third edition).
